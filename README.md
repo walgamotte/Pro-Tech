@@ -1,2 +1,1 @@
-Independent GRC & Cybersecurity Consultant |
-IT support
+### Consultant | IT support & digital security
