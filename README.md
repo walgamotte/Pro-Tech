@@ -52,7 +52,6 @@ I was laid off from Wellsfargo Bank. I now provide IT supports and utilize gig-e
 ## 💼 Professional Experience
 
 ### **Technology Specialist** | Pro-Tech Onsite Tech Support  
-*Jan 2023 – Present*
 
 ### **Senior Security Engineer** | Wells Fargo 
 
