@@ -17,7 +17,7 @@
 
 Thank you for your business!
 
-** Buisness Card **
+### Buisness Card ###
 
 ![Pro-Tech](./pro-tech-card.png)
 
