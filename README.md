@@ -71,5 +71,5 @@ I was laid off from Wellsfargo Bank. I now provide IT supports and utilize gig-e
 ## 📬 Contact Information
 * **Phone:** 504.427.1074
 * **Email:** walgamotte@proton.me
-* **LinkedIn:** ://linkedin.com
+* **LinkedIn:** https://www.linkedin.com/in/david-walgamotte-8376423a4
 
