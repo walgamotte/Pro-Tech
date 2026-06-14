@@ -38,38 +38,35 @@ Thank you for your business!
 ## 📌 Summary
 Results-driven technology professional with over 30 years of experience optimizing IT infrastructure and providing critical onsite technical support. Proven track record in troubleshooting complex failures, deploying secure systems, and improving client system uptime. 
 
-I was laid off in my fifties from Wellsfargo Bank. 
+I was laid off in my fifties from Wellsfargo Bank. I now provide IT supports and utilize gig-economy platforms to deliver on-demand services during a targeted job search.
 
 ---
 
 ## 🛠 Skills
-* **Core Tech:** Cisco Routing & Switching, Active Directory, LAN/WAN
-* **Security:** Firewalls (Fortinet, SonicWall), VPN Configuration, Identity Management
-* **Systems:** Windows Server 2022, Linux (Ubuntu/RHEL), Cloud Migration (AWS/Azure)
+* **Core Tech:** Computer, Network, Security, Smart TVs, Audio, Video, Home Automation, IoT devices, configuration and repair, etc.
+* **Security:** Firewalls, VPN Configuration, Identity Management, Virus & Identity Protection
+* **Systems:** Windows, Unix, Linux, Cloud, 3PA, SaaS
 * **Soft Skills:** Technical Leadership, Root-Cause Analysis, Cross-Team Collaboration
 
 ---
 
 ## 💼 Professional Experience
 
-### **Senior Network Engineer** | Pro-Tech Onsite Tech Support  
+### **Technology Specialist** | Pro-Tech Onsite Tech Support  
 *Jan 2023 – Present*
-* Architected and deployed robust Wi-Fi networks for 40+ corporate clients.
-* Reduced critical system downtime by 25% through proactive infrastructure monitoring.
-* Mentored 5 junior technicians on advanced troubleshooting protocols.
 
-### **IT Support Specialist** | Delta Tech Solutions  
-*Mar 2018 – Dec 2022*
-* Managed daily helpdesk operations, resolving 95%+ of tickets within SLA targets.
-* Led a successful hardware refresh project for 200 workstation machines.
-* Implemented automated backup solutions to safeguard critical client data.
+### **Senior Security Engineer** | Wells Fargo 
+
+### **Information Security Officer** | US Navy
+
 
 ---
 
 ## 🎓 Education & Certifications
-* **B.S. in Computer Science** | University of New Orleans (2017)
-* **Cisco Certified Network Associate (CCNA)** | 2021
-* **CompTIA Security+** | 2019
+* **A.S. in Information Technology Administration and Management** | Louisiana Technical College (1996)
+* **CompTIA A+ PC & MAC** | 2000
+* **Microsoft Windows Certified Engineer** | 2005
+* **CompTIA Security+** | 2025
 
 ---
 
