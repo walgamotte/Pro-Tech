@@ -12,10 +12,9 @@
 | Securty, Development, Network or Advanced Configurations | $120.00
 
 ### Payment Terms
-* Please remit payment within 15 days of invoice date.
 * Accepted payment methods: Cash, Check, or Digital Transfer.
 
-Thank you for your business!
+Thank You for the potential opportunity to earn your business!
 
 ### Buisness Card ###
 
