@@ -3,6 +3,7 @@
 ### Service Summary
 
 | Description | Rate |
+| :--- | :---: |
 | Onsite Technical Support & Troubleshooting | $95.00 |
 | Securty, Development, Network or Advanced Configurations | $120.00
 
