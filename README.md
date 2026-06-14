@@ -5,3 +5,5 @@
 ![Pro-Tech](./pro-tech-main-logo.png)
 
 ![Pro-Tech](./pro-tech-logo-transparent.png)
+
+![Pro-Tech](./dwalgamottepic.jpg)
