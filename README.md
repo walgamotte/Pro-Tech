@@ -21,12 +21,12 @@ Thank you for your business!
 
 ![Pro-Tech](./pro-tech-card.png)
 
-** Pro-Tech Logos **
+### Pro-Tech Logos ###
 
 ![Pro-Tech](./pro-tech-main-logo.png)
 
 ![Pro-Tech](./pro-tech-logo-transparent.png)
 
-** Personal Profile **
+### Personal Profile ###
 
 ![Pro-Tech](./dwalgamottepic.jpg)
