@@ -2,8 +2,6 @@
 
 ![Pro-Tech](./pro-tech-logo.png)
 
-![Pro-Tech](./pro-tech-logo-no-contacts.png)
-
 **Pro-Tech Onsite Tech Support**  
 📞 504.427.1074  
 ✉️ walgamotte@proton.me  
