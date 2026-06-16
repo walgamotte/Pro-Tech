@@ -73,7 +73,7 @@ I was laid off from Wellsfargo Bank. I now provide IT supports and utilize gig-e
 * **Email:** walgamotte@proton.me
 * **LinkedIn:** https://www.linkedin.com/in/david-walgamotte-8376423a4
 
-HelloTech Technician
-
-![HelloTech Technician](./HelloTech.png)
+### Gig Economy Work 
+* **HelloTech Technician** ![HelloTech Technician](./HelloTech.png)
+* **Doordash ** ![Doordash](./doordash.png)
 
