@@ -1,5 +1,7 @@
 ![Pro-Tech](./pro-tech-logo-transparent-no-contacts.png)
 
+![Pro-Tech](./pro-tech-logo-transparent-no-contact.png)
+
 ![Pro-Tech](./pro-tech-logo.png)
 
 **Pro-Tech Onsite Tech Support**  
