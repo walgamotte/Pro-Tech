@@ -16,7 +16,7 @@ Thank You for the potential opportunity to earn your business!
 
 ![Pro-Tech](./pro-tech-card.png)
 
-### Pro-Tech Logos ###
+### Pro-Tech Logo ###
 
 ![Pro-Tech](./pro-tech-logo-transparent.png)
 
