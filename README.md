@@ -1,6 +1,6 @@
 ![Pro-Tech](./pro-tech-logo-transparent-no-contacts.png)
 
-![Pro-Tech](./pro-tech-logo-transparent-no-contact.png)
+![Pro-Tech](./pro-tech-logo-transparent-contacts.png)
 
 ![Pro-Tech](./pro-tech-logo.png)
 
