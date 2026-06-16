@@ -75,5 +75,5 @@ I was laid off from Wellsfargo Bank. I now provide IT supports and utilize gig-e
 
 ### Gig Economy Work 
 * **HelloTech Technician** ![HelloTech Technician](./HelloTech.png)
-* **Doordash ** ![Doordash](./doordash.png)
+* **Doordash** ![Doordash](./doordash.png)
 
