@@ -1,4 +1,4 @@
-![Pro-Tech](./pro-tech-logo-transparent-contacts.png)
+![Pro-Tech](./pro-tech-logo-transparent.png)
 
 ### Service Summary
 
@@ -11,10 +11,6 @@
 * Accepted payment methods: Cash, Check, or Digital Transfer.
 
 Thank You for the potential opportunity to earn your business!
-
-### Buisness Card ###
-
-![Pro-Tech](./pro-tech-card.png)
 
 ### Pro-Tech Logo ###
 
@@ -63,7 +59,6 @@ I was laid off from Wellsfargo Bank. I now provide IT supports and utilize gig-e
 ---
 
 ## 📬 Contact Information
-* **Phone:** 504.427.1074
 * **Email:** walgamotte@proton.me
 * **LinkedIn:** https://www.linkedin.com/in/david-walgamotte-8376423a4
 
