@@ -12,10 +12,6 @@
 
 Thank You for the potential opportunity to earn your business!
 
-### Pro-Tech Logo ###
-
-![Pro-Tech](./pro-tech-logo-transparent.png)
-
 ### Personal Profile ###
 
 ![Pro-Tech](./dwalgamottepic.jpg)
