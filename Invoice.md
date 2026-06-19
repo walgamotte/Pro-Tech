@@ -18,9 +18,9 @@
 
 | Description | Hours | Rate | Total |
 | :--- | :---: | :---: | :---: |
-| Onsite Technical Support & Troubleshooting | 2.0 | $95.00 | $190.00 |
-| Network Setup & Configuration | 1.0 | $120.00 | $120.00 |
-| **Total Due** | | | **$310.00** |
+| Onsite Technical Support & Troubleshooting |   | $95.00 |         |
+| Network Setup & Configuration |   | $120.00 |       |
+| **Total Due** | | |       |
 
 ---
 
