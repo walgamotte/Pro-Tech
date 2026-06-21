@@ -4,7 +4,7 @@
 
 | Description | Rate |
 | :--- | :---: |
-Remote Technical Support & | Troubleshooting | $75.00 |
+| Remote Technical Support & Troubleshooting | $75.00 |
 | Onsite Technical Support & Troubleshooting | $95.00 |
 | Securty, Development, Network or Advanced Configurations | $120.00
 
