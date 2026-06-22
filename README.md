@@ -9,7 +9,7 @@
 | Securty, Development, Network or Advanced Configurations | $120.00
 
 ### Payment Terms
-* Accepted payment methods: Cash, Check, or Digital Transfer.
+* Accepted payment methods: Cash, Check, or Digital Transfer via Zelle.
 
 Thank You for the potential opportunity to earn your business!
 
