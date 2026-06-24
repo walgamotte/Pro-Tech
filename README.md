@@ -1,4 +1,4 @@
-![Pro-Tech](./Pro-Tech-Support.png)
+![Pro-Tech](./pro-techsupport-logo.png)
 
 ### Service Summary
 
