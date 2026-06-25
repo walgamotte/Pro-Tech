@@ -39,10 +39,10 @@ I was laid off from Wellsfargo Bank. I now provide IT supports and utilize gig-e
 ### **Information Security Officer** | US Navy
 
 ## 🎓 Education & Certifications
-* **A.S. in Information Technology Administration and Management** | Louisiana Technical College (1996)
+* **2yr vocational diploma in Information Technology Administration and Management** | Louisiana Technical College (1996)
 * **CompTIA A+ PC & MAC** | 2000
 * **Microsoft Windows Certified Engineer** | 2005
 * **CompTIA Security+** | 2025
 
 ## 📬 Contact Information
-* **Email:** walgamotte@proton.me
+* **Email:** walgamotte@proton.me or direct message
