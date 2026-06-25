@@ -20,7 +20,7 @@ Thank You for the potential opportunity to earn your business!
 # David Walgamotte
 
 ## 📌 Summary
-Results-driven technology professional with over 30 years of experience optimizing IT infrastructure and providing critical onsite technical support. Proven track record in troubleshooting complex failures, deploying secure systems, and improving client system uptime. 
+Results-driven technology professional with experience optimizing IT infrastructure and providing critical onsite technical support. Proven track record in troubleshooting complex failures, deploying secure systems, and improving client system uptime. 
 
 I was laid off from Wellsfargo Bank. I now provide IT supports and utilize gig-economy platforms to deliver on-demand services during a targeted job search.
 
