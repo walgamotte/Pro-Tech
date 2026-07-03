@@ -49,4 +49,4 @@ I was laid off from Wellsfargo Bank. I now provide IT supports and utilize gig-e
 
 ## HelloTech
 * ** My services can be booked with HelloTech. I'm a registered HelloTech technican. Services are insured when booking through HelloTech, however more expensive.
-![Book me with HelloTech (insured)](http://hellotech.com/schedule/145327)
+* ** Book with HelloTech : http://hellotech.com/schedule/145327
