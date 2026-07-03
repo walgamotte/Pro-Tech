@@ -48,4 +48,4 @@ I was laid off from Wellsfargo Bank. I now provide IT supports and utilize gig-e
 * **Email:** walgamotte@proton.me or direct message
 
 ## HelloTech
-![HelloTech (insured)](hellotech.com/schedule/1453271)
+![Book me with HelloTech (insured)](http://hellotech.com/schedule/1453271)
