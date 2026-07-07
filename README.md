@@ -18,7 +18,7 @@
 # David Walgamotte
 
 ## 📌 Summary
-Results-driven technology professional with experience optimizing IT infrastructure and providing critical onsite technical support. Proven track record in troubleshooting complex failures, deploying secure systems, and improving client system uptime. 
+Results-driven technology professional with experience optimizing IT infrastructure and providing technical support. Proven track record in troubleshooting failures, deploying secure systems, and improving system uptime. 
 
 Post layoff, I now provide IT support and utilize gig-economy platforms to deliver on-demand services.
 
