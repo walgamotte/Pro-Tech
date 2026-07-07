@@ -1,6 +1,6 @@
 ![Pro-Tech](./pro-techsupport-logo.png)
 
-### Service Summary
+### Services
 
 | Description | Rate |
 | :--- | :---: |
