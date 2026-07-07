@@ -20,7 +20,7 @@
 ## 📌 Summary
 Results-driven technology professional with experience optimizing IT infrastructure and providing critical onsite technical support. Proven track record in troubleshooting complex failures, deploying secure systems, and improving client system uptime. 
 
-I was laid off from Wellsfargo Bank. I now provide IT supports and utilize gig-economy platforms to deliver on-demand services.
+Post layoff, I now provide IT support and utilize gig-economy platforms to deliver on-demand services.
 
 ## 🛠 Skills
 * **Core Tech:** Computer, Network, Security, Smart TVs, Audio, Video, Home Automation, IoT devices, configuration and repair, etc.
