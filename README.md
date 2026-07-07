@@ -11,8 +11,6 @@
 ### Payment Terms
 * Accepted payment methods: Cash, Check, or Digital Transfer via Zelle or Paypal.
 
-Thank You for the potential opportunity to earn your business!
-
 ### Personal Profile ###
 
 ![Pro-Tech](./dwalgamottepic.jpg)
