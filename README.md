@@ -1,4 +1,4 @@
-![Pro-Tech](./pro-techsupport-logo.png)
+![Pro-Tech](./protech.png)
 
 ### Services
 
