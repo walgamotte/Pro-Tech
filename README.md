@@ -1,4 +1,4 @@
-![Pro-Tech](./protechcontacttransparent.png)
+![Pro-Tech](./protechtrans.png)
 
 ### Services
 
