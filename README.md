@@ -1,4 +1,4 @@
-![Pro-Tech](./protechicon.png)
+![Pro-Tech](./protechicontrans.png)
 
 ### Services
 
