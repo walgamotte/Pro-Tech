@@ -1,4 +1,4 @@
-![Pro-Tech](./logotrans.png)
+![Pro-Tech](./ptlogo.png)
 
 ### Services
 
